@@ -1,4 +1,4 @@
-# GangRouBingJi Exoskeleton
+# SoftRigid Coupling Exoskeleton
 **刚柔并"脊"——新一代万向刚柔耦合仿生外骨骼运动预判系统**
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
@@ -26,8 +26,8 @@ A **physics-guided deep learning system** for real-time prediction of spinal pos
 
 ```bash
 # Clone repo
-git clone https://github.com/ShBWei/gangrou-bingji-exoskeleton.git
-cd gangrou-bingji-exoskeleton
+git clone https://github.com/ShBWei/SoftRigid-Coupling-Exoskeleton.git
+cd SoftRigid-Coupling-Exoskeleton
 
 # Install dependencies
 pip install -r requirements.txt
@@ -36,4 +36,4 @@ pip install -r requirements.txt
 python train.py
 
 # View results
-# Check generated: gangrou_bingji_results.png
+# Check generated: SoftRigid-Coupling-Exoskeleton_results.png
